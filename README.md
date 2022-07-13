@@ -1,4 +1,4 @@
-<a href="https://bintray.com/openqjkj/maven/ophttp"><img src="https://img.shields.io/badge/jcenter-1.0.13-green"></a>&nbsp;<img src="https://img.shields.io/badge/MinSDK-14-red" />&nbsp;<img src="https://img.shields.io/badge/-androidx-blue" />
+<a href="https://bintray.com/openqjkj/maven/ophttp"><img src="https://img.shields.io/badge/MavenCentral-1.0.15-green"></a>&nbsp;<img src="https://img.shields.io/badge/MinSDK-14-red" />&nbsp;<img src="https://img.shields.io/badge/-androidx-blue" />
 
 [TOC]
 
@@ -9,7 +9,7 @@ http 库封装
 ## ophttp 库引入
 
 ```gradle
-    implementation 'com.qjkj:ophttp:1.0.13'
+    implementation 'com.qjkj:ophttp:1.0.15'
 ```
 
 ## 请求接口定义
@@ -229,3 +229,9 @@ add UploadRequestBody class
 2021-03-29
 
 add clear log, modify callback function
+
+### 1.0.15
+
+2022-07-13
+
+add facebook stetho support
