@@ -9,7 +9,7 @@ http 库封装
 ## ophttp 库引入
 
 ```gradle
-    implementation 'com.qjkj:ophttp:1.0.15'
+    implementation 'com.taengsic.ophttp:ophttp:1.0.15'
 ```
 
 ## 请求接口定义
